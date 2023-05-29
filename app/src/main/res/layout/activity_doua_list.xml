@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp"
+    android:orientation="vertical"
+    android:background="@drawable/images"
+    tools:context=".DouaList">
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="সকাল-সন্ধ্যার অন্যতম সুন্নাত আমল হলো- নবিজীর শেখানো তাসবিহ ও দোয়া পড়া। আল্লাহর প্রশংসা করা। আল্লাহর কাছে যাবতীয় অনিষ্টতা ও অকল্যাণ থেকে নিরাপত্তা কামনা করা। হাদিসে পাকে নবিজী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম সকাল-সন্ধ্যার তাসবিহ ও দোয়া তুলে ধরেছেন।"
+            android:textColor="#121212"
+            android:textSize="25sp"
+            android:textStyle="bold" />
+
+        <Space
+     android:layout_width="match_parent"
+     android:layout_height="10dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="সকাল-সন্ধ্যা তাসবিহ"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:textColor="#0B0BDF"/>
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="أَصْبَحْنَا وَأَصْبَحَ الْحَمْدُ كُلُّهُ لِلَّهِ ، لا شَرِيكَ لَهُ ، لا إِلَهَ إِلا اللَّهُ ، وَإِلَيْهِ النُّشُورُ"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#121212"/>
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="উচ্চারণ : ‘আসবাহনা ওয়া আসবাহাল হামদু কুল্লুহু লিল্লাহ; লা শারিকা লাহু; লা ইলাহা ইল্লাল্লাহ; ওয়া ইলাইহিন নুশুর।’"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#121212"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="অর্থ : ‘আমরা ভোরে উপনীত হয়েছি এবং আল্লাহর রাজত্ব (সৃষ্টিকুল) ভোরে উপনীত হয়েছে। সব প্রশংসা আল্লাহর, তার কোনো শরিক নেই। আল্লাহ ছাড়া অন্য কোনো ইলাহ নেই এবং পুনরুত্থান তার কাছেই।"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#121212"/>
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="নবিজী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম সন্ধ্যায় উপনীত হলে বলতেন-"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#0B0BDF"/>
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="أَمْسَيْنَا وَأَمْسَى الْمُلْكُ لِلَّهِ ، وَالْحَمْدُ كُلُّهُ لِلَّهِ ، لا شَرِيكَ لَهُ ، لا إِلَهَ إِلا اللَّهُ ، وَإِلَيْهِ الْمَصِيرُ"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#121212"/>
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="উচ্চারণ : আমসাইনা ওয়া আমসাল মুলকু লিল্লাহ; ওয়ালহামদু কুল্লুহু লিল্লাহ; লা শারিকা লাহু; লা ইলাহা ইল্লাল্লাহু; ওয়া ইলাইহিল মাছির।"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#121212"/>
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="অর্থ : ‘আমরা সন্ধ্যায় উপনীত হয়েছি। আল্লাহর রাজত্ব সন্ধ্যায় উপনীত হয়েছে। সব প্রশংসা আল্লাহর এবং তার কোনো শরিক নেই। আল্লাহ ছাড়া কোনো ইলাহ নেই এবং তার কাছেই ফিরে যেতে হবে।’ (আবু দাউদ, তিরমিজি, নাসাঈ, ইবনে মাজাহ, মুসনাদে আহমাদ, ইবনে হিব্বান, নাসাঈ)"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#121212"/>
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="অনিষ্ট থেকে বাঁচতে সকাল–সন্ধ্যার দোয়া: রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেন, ‘যে ব্যক্তি সন্ধ্যায় তিনবার বলবেন-"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#0B0BDF"/>
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="بِسْمِ اللَّهِ الَّذِي لَا يَضُرُّ مَعَ اسْمِهِ شَيْءٌ، فِي الْأَرْضِ، وَلَا فِي السَّمَاءِ، وَهُوَ السَّمِيعُ الْعَلِيمُ"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#121212"/>
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="উচ্চারণ : ’বিসমিল্লাহিল্লাজি লা ইয়াদুররু মাআসমিহি শাইউন ফিল আরদি ওয়া লা ফিস-সামায়ি ওয়া হুয়াস সামিউল আলিম।’"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#121212"/>
+        <Space
+        android:layout_width="match_parent"
+        android:layout_height="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="অর্থ : ‘আল্লাহর নামে, যার নামের বরকতে আসমান ও জমিনের কোনো বস্তুই ক্ষতি করতে পারে না, তিনি সর্বশ্রোতা ও মহাজ্ঞানী।’"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#121212"/>
+        <Space
+        android:layout_width="match_parent"
+        android:layout_height="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=" سُبْحَانَ اللَّهِ وَبِحَمْدِهِ"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#121212"/>
+        <Space
+        android:layout_width="match_parent"
+        android:layout_height="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="উচ্চারণ : ‘সুবহানাল্লাহি ওয়া বিহামদিহি’ ১০০বার।"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#121212"/>
+        <Space
+        android:layout_width="match_parent"
+        android:layout_height="20dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="অর্থ : ‘আল্লাহর পবিত্রতা বর্ণনা করি তাঁর প্রশংসার সাথে।"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#121212"/>
+        <Space
+        android:layout_width="match_parent"
+        android:layout_height="20dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=" أَمْسَيْنَا وَأَمْسَى الْمُلْكُ لِلَّهِ، وَالْحَمْدُ لِلَّهِ لَا إِلَهَ إِلَّا اللهُ، وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ، رَبِّ أَسْأَلُكَ خَيْرَ مَا فِي هَذِهِ اللَّيْلَةِ وَخَيْرَ مَا بَعْدَهَا، وَأَعُوذُ بِكَ مِنْ شَرِّ مَا فِي هَذِهِ اللَّيْلَةِ وَشَرِّ مَا بَعْدَهَا، رَبِّ أَعُوذُ بِكَ مِنَ الْكَسَلِ وَسُوءِ الْكِبَرِ، رَبِّ أَعُوذُ بِكَ مِنْ عَذَابٍ فِي النَّارِ وَعَذَابٍ فِي الْقَبْرِ"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#121212"/>
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="20dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="উচ্চারণ : আমসাইনা ওয়া আমসাল মুলকু লিল্লাহ, ওয়ালহামদু লিল্লাহি লা ইলাহা ইল্লাল্লাহু, ওয়াহদাহু লা শারিকা লাহ, লাহুল মুলকু ওয়ালাহুল হামদু ওয়াহুয়া আলা কুল্লি শাইয়িন ক্বাদির। রাব্বি আসআলুকা খাইরা মা ফি হাজিহিল লাইলাতি ওয়া খাইরা মা বাদাহা, ওয়া আউজুবিকা মিন শারি মা ফি হাজিহিল লাইলাতি ওয়া শারি মা বাদাহা, রাব্বি আউজুবিকা মিনাল কাসালি ওয়া সুয়িল কিবারি, রাব্বি আউযু বিকা মিন আজাবিন ফিন্নারি ওয়া আজাবিন ফিল ক্বাবরি।’ِ"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#121212"/>
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="অর্থ : ‘আমরা এবং সারা রাজ্য আল্লাহর জন্য সন্ধ্যায় উপনীত হলাম। আল্লাহর সমস্ত প্রশংসা, আল্লাহ ছাড়া কোন সত্য উপাস্য নেই, তিনি একক, তাঁর কোনো শরিক নেই, তাঁরই জন্য সমস্ত রাজত্ব, তারই জন্য যাবতীয় প্রশংসা, এবং তিনি সকল বস্তুর উপর সর্বশক্তিমান। হে আমার প্রভু! আমি তোমার কাছে এই রাতে যে কল্যাণ নিহিত আছে তা এবং তার পরেও যে কল্যাণ আছে তাও প্রার্থনা করছি। আর আমি তোমার কাছে এই রাতে যে অকল্যাণ আছে তা এবং তারপরেও যে অকল্যাণ আছে তা থেকে আশ্রয় চাচ্ছি। হে আমার প্রতিপালক! আমি তোমার কাছে অলসতা এবং বার্ধক্যের মন্দ হতে পানাহ চাচ্ছি। হে আমার প্রভু! আমি তোমার কাছে জাহান্নামের এবং কবরের সকল প্রকার আজাব থেকে আশ্রয় চাচ্ছি।’"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#121212"/>
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="20dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="
+اللَّهُمَّ أَنْتَ رَبِّي لَا إِلَهَ إِلَّا أَنْتَ خَلَقْتَنِي وَأَنَا عَبْدُكَ وَأَنَا عَلَى عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ أَعُوذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ أَبُوءُ لَكَ بِنِعْمَتِكَ عَلَيَّ وَأَبُوءُ لَكَ بِذَنْبِي فَاغْفِرْ لِي فَإِنَّهُ لَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#121212"/>
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="উচ্চারণ : ‘আল্লাহুম্মা আন্তা রাব্বি লা ইলাহা ইল্লা আন্তা খালাকতানি, ওয়া আনা আবদুকা ওয়া আনা আলা আহদিকা ওয়া ওয়াদিকা মাসতাত্বাতু, আউজুবিকা মিন শারি মা সানাতু, আবুউ লাকা বি-নিমাতিকা আলাইয়্যা ওয়া আবুউ বিজামবী ফাগফিরলি ফাইন্নাহু লা ইয়্যাগফিরুজ জুনুবা ইল্লা আন্তা।’"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#121212"/>
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="অর্থ : ‘হে আল্লাহ! তুমিই আমার প্রতিপালক। তুমি ছাড়া কোনো সত্য উপাস্য নেই। তুমিই আমাকে সৃষ্টি করেছ, আমি তোমার দাস। আমি তোমার প্রতিশ্রুতি ও অঙ্গীকারের উপর যথাসাধ্য প্রতিষ্ঠিত আছি। আমি যা করেছি, তার মন্দ থেকে তোমার কাছে আশ্রয় চাচ্ছি। আমার উপর তোমার যে সম্পদ রয়েছে, তা আমি স্বীকার করছি এবং আমার অপরাধও আমি স্বীকার করছি। সুতরাং তুমি আমাকে ক্ষমা করে দাও, যেহেতু তুমি ছাড়া আর কেউ পাপ ক্ষমা করতে পারে না।’"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#121212"/>
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="20dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="
+ اللَّهُمَّ عَالِمَ الغَيْبِ والشَّهَادَةِ، فَاطِرَ السَّموَاتِ والأرْضِ، رَبَّ كُلِّ شَيءٍ ومَلِيْكَهُ، أشْهَدُ أنْ لا إلَهَ إلاَّ أنْتَ، أعُوذُ بِكَ مِنْ شَرِّ نَفْسِي، وَمِنْ شَرِّ الشَّيْطَانِ وَشِرْكِهِ"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#121212"/>
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="উচ্চারণ : ‘আল্লাহুম্মা আলিমাল গায়বি ওয়াশশাহাদাতি, ফা-ত্বিরাস সামাওয়াতি ওয়াল আরদি রাব্বা কুল্লি শাইয়িন ওয়া মালিকাহু, আশহাদু আল লা ইলাহা ইল্লা আন্তা আউজুবিকা মিন শারি নাফসি ওয়া মিন শাররিশ শায়ত্বনি ওয়া শিরকিহি।’"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#121212"/>
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="অর্থ : ‘হে উপস্থিত ও অনুপস্থিত পরিজ্ঞাতা! আকাশমন্ডলী ও পৃথিবীর সৃজনকর্তা! প্রত্যেক বস্তুর প্রতিপালক! ও অধিপতি আল্লাহ! আমি সাক্ষি দিচ্ছি যে তুমি ছাড়া কোনো সত্য উপাস্য নেই। আমি আমার আত্মার মন্দ থেকে এবং শয়তানের মন্দ ও শিরক থেকে তোমার কাছে আশ্রয় প্রার্থনা করছি।"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#121212"/>
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="20dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=" بِسْمِ اللَّهِ الَّذِي لَا يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ وَهُوَ السَّمِيعُ الْعَلِيمُ"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#121212"/>
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="উচ্চারণ : ‘বিসমিল্লাহিল্লাজি লা য়্যাদুররু মাআসমিহি শাইউন ফিল আরদি ওয়ালা ফিসসামায়ি ওয়াহুওয়াস সামিউল আলিম।’"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#121212"/>
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="অর্থ : ‘আমি শুরু করছি সেই আল্লাহর নামে, যার নামের সাথে পৃথিবী ও আকাশের কোন জিনিস ক্ষতি সাধন করতে পারে না এবং তিনিই সর্বশ্রোতা সর্বজ্ঞাতা।"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#121212"/>
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="20dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="أَعُوذُ بِكَلِمَاتِ اللَّهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#121212"/>
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="উচ্চারণ : আউজু বিকালিমাতিল্লাহিত তাম্মাতি মিনশারি মা খালাকা।"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#121212"/>
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="অর্থ : ‘আমি আল্লাহর পরিপূর্ণ বাণীর অসিলায় তিনি যা সৃষ্টি করেছেন, তার মন্দ থেকে আশ্রয় প্রার্থনা করছি।’"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#121212"/>
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="20dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="
+ اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَافِيَةَ فِي الدُّنْيَا وَالآخِرَةِ، اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي دِينِي وَدُنْيَايَ وَأَهْلِي وَمَالِي، اللَّهُمَّ استُرْ عَوْرَاتي، وآمِنْ رَوْعَاتي، اللَّهمَّ احْفَظْنِي مِنْ بَينِ يَدَيَّ، ومِنْ خَلْفي، وَعن يَميني، وعن شِمالي، ومِن فَوْقِي، وأعُوذُ بِعَظَمَتِكَ أنْ أُغْتَالَ مِنْ تَحتي"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#121212"/>
+        <Space
+        android:layout_width="match_parent"
+        android:layout_height="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="উচ্চারণ : আল্লাহুম্মা ইন্নি আসআলুকাল আ-ফিয়াতা ফিদদুনয়্যা ওয়াল আ-খিরাহ, আল্লাহুম্মা ইন্নি আসআলুকাল আফওয়া ওয়াল আ-ফিয়াতা ফি দ্বীনী ওয়া দুনয়্যা-য়্যা ওয়া আহলি ওয়া মা-লী, আল্লাহুম্মাসতুর আওরা-তী ওয়া আমিন রাওআ-তী, আল্লাহুম্মাহফাজনী মিম বাইনি ইয়্যাদাইয়্যা অমিন খালফী ওয়া আঁই ইয়্যামীনী ওয়া আন শিমালী ওয়া মিন ফাউক্বী, ওয়া আউজু বিআজমাতিকা আন উগতা-লা মিন তাহতী।"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#121212"/>
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="অর্থ : হে আল্লাহ! নিশ্চয় আমি তোমার নিকট ইহকালে ও পরকালে নিরাপত্তা চাচ্ছি। হে আল্লাহ! নিশ্চয় আমি তোমার নিকট আমার ধর্ম ও পার্থিব জীবনে এবং পরিবার ও সম্পদে ক্ষমা ও নিরাপত্তা ভিক্ষা করছি। হে আল্লাহ! তুমি আমার লজ্জাকর বিষয়সমূহ গোপন করে নাও এবং আমার ভীতিতে নিরাপত্তা দাও। হে আল্লাহ! তুমি আমাকে আমার সম্মুখ ও পশ্চাৎ, ডান ও বাম এবং উপর থেকে রক্ষণাবেক্ষণ কর। আর আমি তোমার মাহাত্মের অসিলায় আমার নিচে ভূমিধ্বস থেকে আশ্রয় প্রার্থনা করছি।’"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#121212"/> <Space
+        android:layout_width="match_parent"
+        android:layout_height="20dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="
+ اصْبَحْنا عَلَى فِطْرَةِ الإسْلاَمِ، وَعَلَى كَلِمَةِ الإِخْلاَصِ، وَعَلَى دِينِ نَبِيِّنَا مُحَمَّدٍ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، وَعَلَى مِلَّةِ أَبِينَا إبْرَاهِيمَ حَنِيفاً مُسْلِماً وَمَا كَانَ مِنَ المُشْرِكِينَ"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#121212"/>
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="উচ্চারণ : আসবাহনা আলা ফিত্বরাতিল ইসলামি ওয়া আলা কালিমাতিল ইখলাস, ওয়া আলা দ্বীনি নাবিয়্যিনা মুহাম্মাদিন সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম, ওয়া আলা মিল্লাতি আবীনা ইবরাহীমা হানীফাম মুসলিমউ ওয়া মা কা-না মিনাল মুশরিকীন।"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#121212"/>
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="অর্থ : আমরা সকালে উপনীত হলাম ইসলামের প্রকৃতির উপর, ইখলাসের বাণীর উপর, আমাদের নবি মুহাম্মাদ সাল্লাল্লাহু আলাইহি ওয়া সাল্লামের দ্বীনের উপর এবং আমাদের পিতা ইবরাহিম আলাইহিস সালামের ধর্মাদর্শের উপর, যিনি একনিষ্ঠ মুসলিম ছিলেন এবং মুশরিকদের অন্তর্ভুক্ত ছিলেন না।"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#121212"/>
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="20dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="يا حي يا قيوم برحمتك أستغيث أصلح لي شأني كله ولا تكلني إلى نفسي طرفة عين"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#121212"/>
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="উচ্চারণ : ইয়া হাইয়্যু ইয়া কাইয়্যুমু বিরাহমাতিকা আসতাগিস, আসলিহ লী শানী কুল্লাহ, ওয়া লা তাকিলনী ইলা নাফসী ত্বারফাতা আইন।"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#121212"/>
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="অর্থ : হে চিরঞ্জীব! হে অবিনশ্বর। আমি তোমার করুণার অসিলায় ফরিয়াদ করছি। তুমি আমার সকল বিষয়কে সংশোধন করে দাও। আর চোখের এক পলক বরাবরও আমাকে আমার নিজের ওপর সোপর্দ করে দিও না।"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#121212"/>
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="20dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="اَللّٰهُ لَاۤ اِلٰهَ اِلَّا هُوَۚ اَلۡحَیُّ الۡقَیُّوۡمُ ۬لَا تَاۡخُذُهٗ سِنَۃٌ وَّ لَا نَوۡمٌ ؕ لَهٗ مَا فِی السَّمٰوٰتِ وَ مَا فِی الۡاَرۡضِ ؕ مَنۡ ذَا الَّذِیۡ یَشۡفَعُ عِنۡدَهٗۤ اِلَّا بِاِذۡنِهٖ ؕ یَعۡلَمُ مَا بَیۡنَ اَیۡدِیۡهِمۡ وَ مَا خَلۡفَهُمۡ ۚ وَ لَا یُحِیۡطُوۡنَ بِشَیۡءٍ مِّنۡ عِلۡمِهٖۤ اِلَّا بِمَا شَآءَ ۚ وَسِعَ کُرۡسِیُّهُ السَّمٰوٰتِ وَ الۡاَرۡضَ ۚ وَ لَا یَـُٔوۡدُهٗ حِفۡظُهُمَا ۚ وَ هُوَ الۡعَلِیُّ الۡعَظِیۡمُ"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#121212"/>
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="উচ্চারণ- আল্লাহু লা ইলাহা ইল্লা হুওয়াল হাইয়্যুল ক্বাইয়্যুম। লা তাঅ খুযুহু সিনাতুঁও ওয়া লা নাওম। লাহু মা ফিস্ সামাওয়াতি ওয়া মা ফিল আরদ্বি। মাং জাল্লাজি ইয়াশফাউ ইংদাহু ইল্লা বি-ইজনিহি। ইয়ালামু মা বাইনা আইদিহিম ওয়া মা খালফাহুম, ওয়া লা ইউহিতুনা বিশাইয়্যিম্ মিন ইলমিহি ইল্লা বিমা শাআ ওয়াসিআ কুরসিইয়্যুহুস্ সামাওয়াতি ওয়াল আরদ্বি, ওয়া লা ইয়াউদুহু হিফজুহুমা ওয়া হুওয়াল ‘আলিয়্যুল আজিম।’"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#121212"/>
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="অর্থ : (তিনিই) আল্লাহ, যিনি ছাড়া কোনো উপাস্য নেই। তিনি জীবিত, সবকিছুর ধারক। তাঁকে তন্দ্রাও স্পর্শ করতে পারে না এবং ঘুমও নয়। সবই তাঁর, আসমান ও জমিনের মধ্যে যা কিছু রয়েছে। কে আছ এমন- যে সুপারিশ করবে তাঁর কাছে তাঁর অনুমতি ছাড়া? (চোখের সামনে কিংবা পিছনে যা কিছু রয়েছে সে সবই তিনি জানেন। তাঁর জ্ঞানের সীমা থেকে কোনো কিছুকেই তারা পরিবেষ্টিত করতে পারবে না, কিন্তু ‘হ্যাঁ’, তিনি যতটুকু ইচ্ছা করেন তা ছাড়া। সমগ্র আসমান এবং জমিনকে পরিবেষ্টিত করে আছে তাঁর সিংহাসন। আর সেগুলোকে ধারণ (নিয়ন্ত্রণ) করা তাঁর জন্য কঠিন নয়। তিনিই সর্বোচ্চ এবং সর্বাপেক্ষা মহান।"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#121212"/>
+        <Space
+        android:layout_width="match_parent"
+        android:layout_height="20dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="আল্লাহ তাআলা মুসলিম উম্মাহকে সকাল সন্ধ্যায় কোরআন-সুন্নায় উল্লেখিত জিকির ও দোয়াগুলো পড়ার তাওফিক দান করুন।"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#121212"/>
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="20dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="আমিন।"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#121212"/>
+
+    </LinearLayout>
+</ScrollView>
+</LinearLayout>

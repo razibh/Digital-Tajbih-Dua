@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:background="@drawable/download"
+    tools:context=".MainActivity">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="150dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"
+        app:cardBackgroundColor="@android:color/transparent"
+        android:layout_height="150dp">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="0"
+            android:textColor="#11E45E"
+            android:textSize="90sp"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:id="@+id/cdvtext">
+
+        </TextView>
+    </androidx.cardview.widget.CardView>
+    <GridLayout
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:columnCount="2"
+        android:layout_height="200dp">
+        <androidx.cardview.widget.CardView
+            android:id="@+id/card1"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_columnWeight="1"
+            app:cardBackgroundColor="@android:color/transparent"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="10dp"
+
+            app:cardCornerRadius="90dp">
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical|center_horizontal">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20dp"
+                    android:text="Add One"
+                    android:textColor="#03F463"
+                    android:textSize="40sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/card2"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            app:cardBackgroundColor="@android:color/transparent"
+            android:layout_columnWeight="1"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="10dp"
+
+            android:outlineSpotShadowColor="@color/black"
+            app:cardCornerRadius="90dp">
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical|center_horizontal">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20dp"
+                    android:text="Sub One"
+                    android:textColor="#22FB12"
+                    android:textSize="40sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+    </GridLayout>
+    <androidx.cardview.widget.CardView
+        android:layout_width="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        app:cardBackgroundColor="@android:color/transparent"
+        android:defaultFocusHighlightEnabled="true"
+        android:layout_height="100dp">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Reset"
+            android:textColor="#FA1706"
+            android:textSize="90sp"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:id="@+id/cdvtextreset">
+
+        </TextView>
+    </androidx.cardview.widget.CardView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="সকাল-সন্ধ্যার জিকির ও দোয়া"
+        android:textStyle="bold"
+        android:textSize="45sp"
+      android:gravity="center"
+        android:layout_marginTop="20dp"
+        android:id="@+id/tvid"
+        android:textColor="#FDE406"/>
+</LinearLayout>
